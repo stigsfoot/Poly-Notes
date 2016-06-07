@@ -1,10 +1,11 @@
 {
-  "name": "PolyNotes",
-  "theme_color": "#03a9f4",
-  "background_color": "#ffd6eb",
+  "name": "Notes",
+  "scope": "./",
+  "start_url": "index.html",
   "display": "standalone",
-  "Scope": "./",
-  "start_url": "/index.html",
+  "orientation": "any",
+  "theme_color": "#9C27B0",
+  "background_color": "#9C27B0",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
